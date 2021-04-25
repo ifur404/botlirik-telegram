@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+.vscode
+Lib
+Scripts
+bin
+pyvenv.cfg
+dump-mp3ifur.sql
